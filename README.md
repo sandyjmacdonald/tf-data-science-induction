@@ -7,3 +7,4 @@ Work through these at your own pace, make sure that you understand them, and ask
 ## Induction packs
 
 * [Sustainability](sustainability.md)
+* [Coding Standards](coding-standards.md)
