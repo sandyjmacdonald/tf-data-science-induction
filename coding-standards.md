@@ -9,6 +9,7 @@ The following guidelines will be an evolving thing that grows and changes as we 
 * Use Visual Studio Code as your IDE of choice
 * Maintain codebases with Git and GitHub
 * Use the Ruff formatter/linter to standardise your code and conform with PEP 8
+* Use uv for developing and managing Python codebases
 
 ## VS Code - Our IDE of Choice for Developing Code
 
